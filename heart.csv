@@ -1,0 +1,304 @@
+,age,sex,chestPain,resting_blood_pressure,cholestoral,fasting_blood_sugar,resting_electrocardiographic,maximum_heart_rate,exercise_induced_angina,oldpeak,slp,number_of_vessels,thall,output
+0,63,1,asymptomatic,145,233,true,normal,150,no,2.3,0,0,1,more chance of heart attact
+1,37,1,non-anginal pain,130,250,false,having ST-T wave abnormality,187,no,3.5,0,0,2,more chance of heart attact
+2,41,0,atypical angina,130,204,false,normal,172,no,1.4,2,0,2,more chance of heart attact
+3,56,1,atypical angina,120,236,false,having ST-T wave abnormality,178,no,0.8,2,0,2,more chance of heart attact
+4,57,0,typical angina,120,354,false,having ST-T wave abnormality,163,yes,0.6,2,0,2,more chance of heart attact
+5,57,1,typical angina,140,192,false,having ST-T wave abnormality,148,no,0.4,1,0,1,more chance of heart attact
+6,56,0,atypical angina,140,294,false,normal,153,no,1.3,1,0,2,more chance of heart attact
+7,44,1,atypical angina,120,263,false,having ST-T wave abnormality,173,no,0,2,0,3,more chance of heart attact
+8,52,1,non-anginal pain,172,199,true,having ST-T wave abnormality,162,no,0.5,2,0,3,more chance of heart attact
+9,57,1,non-anginal pain,150,168,false,having ST-T wave abnormality,174,no,1.6,2,0,2,more chance of heart attact
+10,54,1,typical angina,140,239,false,having ST-T wave abnormality,160,no,1.2,2,0,2,more chance of heart attact
+11,48,0,non-anginal pain,130,275,false,having ST-T wave abnormality,139,no,0.2,2,0,2,more chance of heart attact
+12,49,1,atypical angina,130,266,false,having ST-T wave abnormality,171,no,0.6,2,0,2,more chance of heart attact
+13,64,1,asymptomatic,110,211,false,normal,144,yes,1.8,1,0,2,more chance of heart attact
+14,58,0,asymptomatic,150,283,true,normal,162,no,1,2,0,2,more chance of heart attact
+15,50,0,non-anginal pain,120,219,false,having ST-T wave abnormality,158,no,1.6,1,0,2,more chance of heart attact
+16,58,0,non-anginal pain,120,340,false,having ST-T wave abnormality,172,no,0,2,0,2,more chance of heart attact
+17,66,0,asymptomatic,150,226,false,having ST-T wave abnormality,114,no,2.6,0,0,2,more chance of heart attact
+18,43,1,typical angina,150,247,false,having ST-T wave abnormality,171,no,1.5,2,0,2,more chance of heart attact
+19,69,0,asymptomatic,140,239,false,having ST-T wave abnormality,151,no,1.8,2,2,2,more chance of heart attact
+20,59,1,typical angina,135,234,false,having ST-T wave abnormality,161,no,0.5,1,0,3,more chance of heart attact
+21,44,1,non-anginal pain,130,233,false,having ST-T wave abnormality,179,yes,0.4,2,0,2,more chance of heart attact
+22,42,1,typical angina,140,226,false,having ST-T wave abnormality,178,no,0,2,0,2,more chance of heart attact
+23,61,1,non-anginal pain,150,243,true,having ST-T wave abnormality,137,yes,1,1,0,2,more chance of heart attact
+24,40,1,asymptomatic,140,199,false,having ST-T wave abnormality,178,yes,1.4,2,0,3,more chance of heart attact
+25,71,0,atypical angina,160,302,false,having ST-T wave abnormality,162,no,0.4,2,2,2,more chance of heart attact
+26,59,1,non-anginal pain,150,212,true,having ST-T wave abnormality,157,no,1.6,2,0,2,more chance of heart attact
+27,51,1,non-anginal pain,110,175,false,having ST-T wave abnormality,123,no,0.6,2,0,2,more chance of heart attact
+28,65,0,non-anginal pain,140,417,true,normal,157,no,0.8,2,1,2,more chance of heart attact
+29,53,1,non-anginal pain,130,197,true,normal,152,no,1.2,0,0,2,more chance of heart attact
+30,41,0,atypical angina,105,198,false,having ST-T wave abnormality,168,no,0,2,1,2,more chance of heart attact
+31,65,1,typical angina,120,177,false,having ST-T wave abnormality,140,no,0.4,2,0,3,more chance of heart attact
+32,44,1,atypical angina,130,219,false,normal,188,no,0,2,0,2,more chance of heart attact
+33,54,1,non-anginal pain,125,273,false,normal,152,no,0.5,0,1,2,more chance of heart attact
+34,51,1,asymptomatic,125,213,false,normal,125,yes,1.4,2,1,2,more chance of heart attact
+35,46,0,non-anginal pain,142,177,false,normal,160,yes,1.4,0,0,2,more chance of heart attact
+36,54,0,non-anginal pain,135,304,true,having ST-T wave abnormality,170,no,0,2,0,2,more chance of heart attact
+37,54,1,non-anginal pain,150,232,false,normal,165,no,1.6,2,0,3,more chance of heart attact
+38,65,0,non-anginal pain,155,269,false,having ST-T wave abnormality,148,no,0.8,2,0,2,more chance of heart attact
+39,65,0,non-anginal pain,160,360,false,normal,151,no,0.8,2,0,2,more chance of heart attact
+40,51,0,non-anginal pain,140,308,false,normal,142,no,1.5,2,1,2,more chance of heart attact
+41,48,1,atypical angina,130,245,false,normal,180,no,0.2,1,0,2,more chance of heart attact
+42,45,1,typical angina,104,208,false,normal,148,yes,3,1,0,2,more chance of heart attact
+43,53,0,typical angina,130,264,false,normal,143,no,0.4,1,0,2,more chance of heart attact
+44,39,1,non-anginal pain,140,321,false,normal,182,no,0,2,0,2,more chance of heart attact
+45,52,1,atypical angina,120,325,false,having ST-T wave abnormality,172,no,0.2,2,0,2,more chance of heart attact
+46,44,1,non-anginal pain,140,235,false,normal,180,no,0,2,0,2,more chance of heart attact
+47,47,1,non-anginal pain,138,257,false,normal,156,no,0,2,0,2,more chance of heart attact
+48,53,0,non-anginal pain,128,216,false,normal,115,no,0,2,0,0,more chance of heart attact
+49,53,0,typical angina,138,234,false,normal,160,no,0,2,0,2,more chance of heart attact
+50,51,0,non-anginal pain,130,256,false,normal,149,no,0.5,2,0,2,more chance of heart attact
+51,66,1,typical angina,120,302,false,normal,151,no,0.4,1,0,2,more chance of heart attact
+52,62,1,non-anginal pain,130,231,false,having ST-T wave abnormality,146,no,1.8,1,3,3,more chance of heart attact
+53,44,0,non-anginal pain,108,141,false,having ST-T wave abnormality,175,no,0.6,1,0,2,more chance of heart attact
+54,63,0,non-anginal pain,135,252,false,normal,172,no,0,2,0,2,more chance of heart attact
+55,52,1,atypical angina,134,201,false,having ST-T wave abnormality,158,no,0.8,2,1,2,more chance of heart attact
+56,48,1,typical angina,122,222,false,normal,186,no,0,2,0,2,more chance of heart attact
+57,45,1,typical angina,115,260,false,normal,185,no,0,2,0,2,more chance of heart attact
+58,34,1,asymptomatic,118,182,false,normal,174,no,0,2,0,2,more chance of heart attact
+59,57,0,typical angina,128,303,false,normal,159,no,0,2,1,2,more chance of heart attact
+60,71,0,non-anginal pain,110,265,true,normal,130,no,0,2,1,2,more chance of heart attact
+61,54,1,atypical angina,108,309,false,having ST-T wave abnormality,156,no,0,2,0,3,more chance of heart attact
+62,52,1,asymptomatic,118,186,false,normal,190,no,0,1,0,1,more chance of heart attact
+63,41,1,atypical angina,135,203,false,having ST-T wave abnormality,132,no,0,1,0,1,more chance of heart attact
+64,58,1,non-anginal pain,140,211,true,normal,165,no,0,2,0,2,more chance of heart attact
+65,35,0,typical angina,138,183,false,having ST-T wave abnormality,182,no,1.4,2,0,2,more chance of heart attact
+66,51,1,non-anginal pain,100,222,false,having ST-T wave abnormality,143,yes,1.2,1,0,2,more chance of heart attact
+67,45,0,atypical angina,130,234,false,normal,175,no,0.6,1,0,2,more chance of heart attact
+68,44,1,atypical angina,120,220,false,having ST-T wave abnormality,170,no,0,2,0,2,more chance of heart attact
+69,62,0,typical angina,124,209,false,having ST-T wave abnormality,163,no,0,2,0,2,more chance of heart attact
+70,54,1,non-anginal pain,120,258,false,normal,147,no,0.4,1,0,3,more chance of heart attact
+71,51,1,non-anginal pain,94,227,false,having ST-T wave abnormality,154,yes,0,2,1,3,more chance of heart attact
+72,29,1,atypical angina,130,204,false,normal,202,no,0,2,0,2,more chance of heart attact
+73,51,1,typical angina,140,261,false,normal,186,yes,0,2,0,2,more chance of heart attact
+74,43,0,non-anginal pain,122,213,false,having ST-T wave abnormality,165,no,0.2,1,0,2,more chance of heart attact
+75,55,0,atypical angina,135,250,false,normal,161,no,1.4,1,0,2,more chance of heart attact
+76,51,1,non-anginal pain,125,245,true,normal,166,no,2.4,1,0,2,more chance of heart attact
+77,59,1,atypical angina,140,221,false,having ST-T wave abnormality,164,yes,0,2,0,2,more chance of heart attact
+78,52,1,atypical angina,128,205,true,having ST-T wave abnormality,184,no,0,2,0,2,more chance of heart attact
+79,58,1,non-anginal pain,105,240,false,normal,154,yes,0.6,1,0,3,more chance of heart attact
+80,41,1,non-anginal pain,112,250,false,having ST-T wave abnormality,179,no,0,2,0,2,more chance of heart attact
+81,45,1,atypical angina,128,308,false,normal,170,no,0,2,0,2,more chance of heart attact
+82,60,0,non-anginal pain,102,318,false,having ST-T wave abnormality,160,no,0,2,1,2,more chance of heart attact
+83,52,1,asymptomatic,152,298,true,having ST-T wave abnormality,178,no,1.2,1,0,3,more chance of heart attact
+84,42,0,typical angina,102,265,false,normal,122,no,0.6,1,0,2,more chance of heart attact
+85,67,0,non-anginal pain,115,564,false,normal,160,no,1.6,1,0,3,more chance of heart attact
+86,68,1,non-anginal pain,118,277,false,having ST-T wave abnormality,151,no,1,2,1,3,more chance of heart attact
+87,46,1,atypical angina,101,197,true,having ST-T wave abnormality,156,no,0,2,0,3,more chance of heart attact
+88,54,0,non-anginal pain,110,214,false,having ST-T wave abnormality,158,no,1.6,1,0,2,more chance of heart attact
+89,58,0,typical angina,100,248,false,normal,122,no,1,1,0,2,more chance of heart attact
+90,48,1,non-anginal pain,124,255,true,having ST-T wave abnormality,175,no,0,2,2,2,more chance of heart attact
+91,57,1,typical angina,132,207,false,having ST-T wave abnormality,168,yes,0,2,0,3,more chance of heart attact
+92,52,1,non-anginal pain,138,223,false,having ST-T wave abnormality,169,no,0,2,4,2,more chance of heart attact
+93,54,0,atypical angina,132,288,true,normal,159,yes,0,2,1,2,more chance of heart attact
+94,45,0,atypical angina,112,160,false,having ST-T wave abnormality,138,no,0,1,0,2,more chance of heart attact
+95,53,1,typical angina,142,226,false,normal,111,yes,0,2,0,3,more chance of heart attact
+96,62,0,typical angina,140,394,false,normal,157,no,1.2,1,0,2,more chance of heart attact
+97,52,1,typical angina,108,233,true,having ST-T wave abnormality,147,no,0.1,2,3,3,more chance of heart attact
+98,43,1,non-anginal pain,130,315,false,having ST-T wave abnormality,162,no,1.9,2,1,2,more chance of heart attact
+99,53,1,non-anginal pain,130,246,true,normal,173,no,0,2,3,2,more chance of heart attact
+100,42,1,asymptomatic,148,244,false,normal,178,no,0.8,2,2,2,more chance of heart attact
+101,59,1,asymptomatic,178,270,false,normal,145,no,4.2,0,0,3,more chance of heart attact
+102,63,0,atypical angina,140,195,false,having ST-T wave abnormality,179,no,0,2,2,2,more chance of heart attact
+103,42,1,non-anginal pain,120,240,true,having ST-T wave abnormality,194,no,0.8,0,0,3,more chance of heart attact
+104,50,1,non-anginal pain,129,196,false,having ST-T wave abnormality,163,no,0,2,0,2,more chance of heart attact
+105,68,0,non-anginal pain,120,211,false,normal,115,no,1.5,1,0,2,more chance of heart attact
+106,69,1,asymptomatic,160,234,true,normal,131,no,0.1,1,1,2,more chance of heart attact
+107,45,0,typical angina,138,236,false,normal,152,yes,0.2,1,0,2,more chance of heart attact
+108,50,0,atypical angina,120,244,false,having ST-T wave abnormality,162,no,1.1,2,0,2,more chance of heart attact
+109,50,0,typical angina,110,254,false,normal,159,no,0,2,0,2,more chance of heart attact
+110,64,0,typical angina,180,325,false,having ST-T wave abnormality,154,yes,0,2,0,2,more chance of heart attact
+111,57,1,non-anginal pain,150,126,true,having ST-T wave abnormality,173,no,0.2,2,1,3,more chance of heart attact
+112,64,0,non-anginal pain,140,313,false,having ST-T wave abnormality,133,no,0.2,2,0,3,more chance of heart attact
+113,43,1,typical angina,110,211,false,having ST-T wave abnormality,161,no,0,2,0,3,more chance of heart attact
+114,55,1,atypical angina,130,262,false,having ST-T wave abnormality,155,no,0,2,0,2,more chance of heart attact
+115,37,0,non-anginal pain,120,215,false,having ST-T wave abnormality,170,no,0,2,0,2,more chance of heart attact
+116,41,1,non-anginal pain,130,214,false,normal,168,no,2,1,0,2,more chance of heart attact
+117,56,1,asymptomatic,120,193,false,normal,162,no,1.9,1,0,3,more chance of heart attact
+118,46,0,atypical angina,105,204,false,having ST-T wave abnormality,172,no,0,2,0,2,more chance of heart attact
+119,46,0,typical angina,138,243,false,normal,152,yes,0,1,0,2,more chance of heart attact
+120,64,0,typical angina,130,303,false,having ST-T wave abnormality,122,no,2,1,2,2,more chance of heart attact
+121,59,1,typical angina,138,271,false,normal,182,no,0,2,0,2,more chance of heart attact
+122,41,0,non-anginal pain,112,268,false,normal,172,yes,0,2,0,2,more chance of heart attact
+123,54,0,non-anginal pain,108,267,false,normal,167,no,0,2,0,2,more chance of heart attact
+124,39,0,non-anginal pain,94,199,false,having ST-T wave abnormality,179,no,0,2,0,2,more chance of heart attact
+125,34,0,atypical angina,118,210,false,having ST-T wave abnormality,192,no,0.7,2,0,2,more chance of heart attact
+126,47,1,typical angina,112,204,false,having ST-T wave abnormality,143,no,0.1,2,0,2,more chance of heart attact
+127,67,0,non-anginal pain,152,277,false,having ST-T wave abnormality,172,no,0,2,1,2,more chance of heart attact
+128,52,0,non-anginal pain,136,196,false,normal,169,no,0.1,1,0,2,more chance of heart attact
+129,74,0,atypical angina,120,269,false,normal,121,yes,0.2,2,1,2,more chance of heart attact
+130,54,0,non-anginal pain,160,201,false,having ST-T wave abnormality,163,no,0,2,1,2,more chance of heart attact
+131,49,0,atypical angina,134,271,false,having ST-T wave abnormality,162,no,0,1,0,2,more chance of heart attact
+132,42,1,atypical angina,120,295,false,having ST-T wave abnormality,162,no,0,2,0,2,more chance of heart attact
+133,41,1,atypical angina,110,235,false,having ST-T wave abnormality,153,no,0,2,0,2,more chance of heart attact
+134,41,0,atypical angina,126,306,false,having ST-T wave abnormality,163,no,0,2,0,2,more chance of heart attact
+135,49,0,typical angina,130,269,false,having ST-T wave abnormality,163,no,0,2,0,2,more chance of heart attact
+136,60,0,non-anginal pain,120,178,true,having ST-T wave abnormality,96,no,0,2,0,2,more chance of heart attact
+137,62,1,atypical angina,128,208,true,normal,140,no,0,2,0,2,more chance of heart attact
+138,57,1,typical angina,110,201,false,having ST-T wave abnormality,126,yes,1.5,1,0,1,more chance of heart attact
+139,64,1,typical angina,128,263,false,having ST-T wave abnormality,105,yes,0.2,1,1,3,more chance of heart attact
+140,51,0,non-anginal pain,120,295,false,normal,157,no,0.6,2,0,2,more chance of heart attact
+141,43,1,typical angina,115,303,false,having ST-T wave abnormality,181,no,1.2,1,0,2,more chance of heart attact
+142,42,0,non-anginal pain,120,209,false,having ST-T wave abnormality,173,no,0,1,0,2,more chance of heart attact
+143,67,0,typical angina,106,223,false,having ST-T wave abnormality,142,no,0.3,2,2,2,more chance of heart attact
+144,76,0,non-anginal pain,140,197,false,left ventricular hypertrophy by Estes' criteria,116,no,1.1,1,0,2,more chance of heart attact
+145,70,1,atypical angina,156,245,false,normal,143,no,0,2,0,2,more chance of heart attact
+146,44,0,non-anginal pain,118,242,false,having ST-T wave abnormality,149,no,0.3,1,1,2,more chance of heart attact
+147,60,0,asymptomatic,150,240,false,having ST-T wave abnormality,171,no,0.9,2,0,2,more chance of heart attact
+148,44,1,non-anginal pain,120,226,false,having ST-T wave abnormality,169,no,0,2,0,2,more chance of heart attact
+149,42,1,non-anginal pain,130,180,false,having ST-T wave abnormality,150,no,0,2,0,2,more chance of heart attact
+150,66,1,typical angina,160,228,false,normal,138,no,2.3,2,0,1,more chance of heart attact
+151,71,0,typical angina,112,149,false,having ST-T wave abnormality,125,no,1.6,1,0,2,more chance of heart attact
+152,64,1,asymptomatic,170,227,false,normal,155,no,0.6,1,0,3,more chance of heart attact
+153,66,0,non-anginal pain,146,278,false,normal,152,no,0,1,1,2,more chance of heart attact
+154,39,0,non-anginal pain,138,220,false,having ST-T wave abnormality,152,no,0,1,0,2,more chance of heart attact
+155,58,0,typical angina,130,197,false,having ST-T wave abnormality,131,no,0.6,1,0,2,more chance of heart attact
+156,47,1,non-anginal pain,130,253,false,having ST-T wave abnormality,179,no,0,2,0,2,more chance of heart attact
+157,35,1,atypical angina,122,192,false,having ST-T wave abnormality,174,no,0,2,0,2,more chance of heart attact
+158,58,1,atypical angina,125,220,false,having ST-T wave abnormality,144,no,0.4,1,4,3,more chance of heart attact
+159,56,1,atypical angina,130,221,false,normal,163,no,0,2,0,3,more chance of heart attact
+160,56,1,atypical angina,120,240,false,having ST-T wave abnormality,169,no,0,0,0,2,more chance of heart attact
+161,55,0,atypical angina,132,342,false,having ST-T wave abnormality,166,no,1.2,2,0,2,more chance of heart attact
+162,41,1,atypical angina,120,157,false,having ST-T wave abnormality,182,no,0,2,0,2,more chance of heart attact
+163,38,1,non-anginal pain,138,175,false,having ST-T wave abnormality,173,no,0,2,4,2,more chance of heart attact
+164,38,1,non-anginal pain,138,175,false,having ST-T wave abnormality,173,no,0,2,4,2,more chance of heart attact
+165,67,1,typical angina,160,286,false,normal,108,yes,1.5,1,3,2,less chance of heart attact
+166,67,1,typical angina,120,229,false,normal,129,yes,2.6,1,2,3,less chance of heart attact
+167,62,0,typical angina,140,268,false,normal,160,no,3.6,0,2,2,less chance of heart attact
+168,63,1,typical angina,130,254,false,normal,147,no,1.4,1,1,3,less chance of heart attact
+169,53,1,typical angina,140,203,true,normal,155,yes,3.1,0,0,3,less chance of heart attact
+170,56,1,non-anginal pain,130,256,true,normal,142,yes,0.6,1,1,1,less chance of heart attact
+171,48,1,atypical angina,110,229,false,having ST-T wave abnormality,168,no,1,0,0,3,less chance of heart attact
+172,58,1,atypical angina,120,284,false,normal,160,no,1.8,1,0,2,less chance of heart attact
+173,58,1,non-anginal pain,132,224,false,normal,173,no,3.2,2,2,3,less chance of heart attact
+174,60,1,typical angina,130,206,false,normal,132,yes,2.4,1,2,3,less chance of heart attact
+175,40,1,typical angina,110,167,false,normal,114,yes,2,1,0,3,less chance of heart attact
+176,60,1,typical angina,117,230,true,having ST-T wave abnormality,160,yes,1.4,2,2,3,less chance of heart attact
+177,64,1,non-anginal pain,140,335,false,having ST-T wave abnormality,158,no,0,2,0,2,less chance of heart attact
+178,43,1,typical angina,120,177,false,normal,120,yes,2.5,1,0,3,less chance of heart attact
+179,57,1,typical angina,150,276,false,normal,112,yes,0.6,1,1,1,less chance of heart attact
+180,55,1,typical angina,132,353,false,having ST-T wave abnormality,132,yes,1.2,1,1,3,less chance of heart attact
+181,65,0,typical angina,150,225,false,normal,114,no,1,1,3,3,less chance of heart attact
+182,61,0,typical angina,130,330,false,normal,169,no,0,2,0,2,less chance of heart attact
+183,58,1,non-anginal pain,112,230,false,normal,165,no,2.5,1,1,3,less chance of heart attact
+184,50,1,typical angina,150,243,false,normal,128,no,2.6,1,0,3,less chance of heart attact
+185,44,1,typical angina,112,290,false,normal,153,no,0,2,1,2,less chance of heart attact
+186,60,1,typical angina,130,253,false,having ST-T wave abnormality,144,yes,1.4,2,1,3,less chance of heart attact
+187,54,1,typical angina,124,266,false,normal,109,yes,2.2,1,1,3,less chance of heart attact
+188,50,1,non-anginal pain,140,233,false,having ST-T wave abnormality,163,no,0.6,1,1,3,less chance of heart attact
+189,41,1,typical angina,110,172,false,normal,158,no,0,2,0,3,less chance of heart attact
+190,51,0,typical angina,130,305,false,having ST-T wave abnormality,142,yes,1.2,1,0,3,less chance of heart attact
+191,58,1,typical angina,128,216,false,normal,131,yes,2.2,1,3,3,less chance of heart attact
+192,54,1,typical angina,120,188,false,having ST-T wave abnormality,113,no,1.4,1,1,3,less chance of heart attact
+193,60,1,typical angina,145,282,false,normal,142,yes,2.8,1,2,3,less chance of heart attact
+194,60,1,non-anginal pain,140,185,false,normal,155,no,3,1,0,2,less chance of heart attact
+195,59,1,typical angina,170,326,false,normal,140,yes,3.4,0,0,3,less chance of heart attact
+196,46,1,non-anginal pain,150,231,false,having ST-T wave abnormality,147,no,3.6,1,0,2,less chance of heart attact
+197,67,1,typical angina,125,254,true,having ST-T wave abnormality,163,no,0.2,1,2,3,less chance of heart attact
+198,62,1,typical angina,120,267,false,having ST-T wave abnormality,99,yes,1.8,1,2,3,less chance of heart attact
+199,65,1,typical angina,110,248,false,normal,158,no,0.6,2,2,1,less chance of heart attact
+200,44,1,typical angina,110,197,false,normal,177,no,0,2,1,2,less chance of heart attact
+201,60,1,typical angina,125,258,false,normal,141,yes,2.8,1,1,3,less chance of heart attact
+202,58,1,typical angina,150,270,false,normal,111,yes,0.8,2,0,3,less chance of heart attact
+203,68,1,non-anginal pain,180,274,true,normal,150,yes,1.6,1,0,3,less chance of heart attact
+204,62,0,typical angina,160,164,false,normal,145,no,6.2,0,3,3,less chance of heart attact
+205,52,1,typical angina,128,255,false,having ST-T wave abnormality,161,yes,0,2,1,3,less chance of heart attact
+206,59,1,typical angina,110,239,false,normal,142,yes,1.2,1,1,3,less chance of heart attact
+207,60,0,typical angina,150,258,false,normal,157,no,2.6,1,2,3,less chance of heart attact
+208,49,1,non-anginal pain,120,188,false,having ST-T wave abnormality,139,no,2,1,3,3,less chance of heart attact
+209,59,1,typical angina,140,177,false,having ST-T wave abnormality,162,yes,0,2,1,3,less chance of heart attact
+210,57,1,non-anginal pain,128,229,false,normal,150,no,0.4,1,1,3,less chance of heart attact
+211,61,1,typical angina,120,260,false,having ST-T wave abnormality,140,yes,3.6,1,1,3,less chance of heart attact
+212,39,1,typical angina,118,219,false,having ST-T wave abnormality,140,no,1.2,1,0,3,less chance of heart attact
+213,61,0,typical angina,145,307,false,normal,146,yes,1,1,0,3,less chance of heart attact
+214,56,1,typical angina,125,249,true,normal,144,yes,1.2,1,1,2,less chance of heart attact
+215,43,0,typical angina,132,341,true,normal,136,yes,3,1,0,3,less chance of heart attact
+216,62,0,non-anginal pain,130,263,false,having ST-T wave abnormality,97,no,1.2,1,1,3,less chance of heart attact
+217,63,1,typical angina,130,330,true,normal,132,yes,1.8,2,3,3,less chance of heart attact
+218,65,1,typical angina,135,254,false,normal,127,no,2.8,1,1,3,less chance of heart attact
+219,48,1,typical angina,130,256,true,normal,150,yes,0,2,2,3,less chance of heart attact
+220,63,0,typical angina,150,407,false,normal,154,no,4,1,3,3,less chance of heart attact
+221,55,1,typical angina,140,217,false,having ST-T wave abnormality,111,yes,5.6,0,0,3,less chance of heart attact
+222,65,1,asymptomatic,138,282,true,normal,174,no,1.4,1,1,2,less chance of heart attact
+223,56,0,typical angina,200,288,true,normal,133,yes,4,0,2,3,less chance of heart attact
+224,54,1,typical angina,110,239,false,having ST-T wave abnormality,126,yes,2.8,1,1,3,less chance of heart attact
+225,70,1,typical angina,145,174,false,having ST-T wave abnormality,125,yes,2.6,0,0,3,less chance of heart attact
+226,62,1,atypical angina,120,281,false,normal,103,no,1.4,1,1,3,less chance of heart attact
+227,35,1,typical angina,120,198,false,having ST-T wave abnormality,130,yes,1.6,1,0,3,less chance of heart attact
+228,59,1,asymptomatic,170,288,false,normal,159,no,0.2,1,0,3,less chance of heart attact
+229,64,1,non-anginal pain,125,309,false,having ST-T wave abnormality,131,yes,1.8,1,0,3,less chance of heart attact
+230,47,1,non-anginal pain,108,243,false,having ST-T wave abnormality,152,no,0,2,0,2,less chance of heart attact
+231,57,1,typical angina,165,289,true,normal,124,no,1,1,3,3,less chance of heart attact
+232,55,1,typical angina,160,289,false,normal,145,yes,0.8,1,1,3,less chance of heart attact
+233,64,1,typical angina,120,246,false,normal,96,yes,2.2,0,1,2,less chance of heart attact
+234,70,1,typical angina,130,322,false,normal,109,no,2.4,1,3,2,less chance of heart attact
+235,51,1,typical angina,140,299,false,having ST-T wave abnormality,173,yes,1.6,2,0,3,less chance of heart attact
+236,58,1,typical angina,125,300,false,normal,171,no,0,2,2,3,less chance of heart attact
+237,60,1,typical angina,140,293,false,normal,170,no,1.2,1,2,3,less chance of heart attact
+238,77,1,typical angina,125,304,false,normal,162,yes,0,2,3,2,less chance of heart attact
+239,35,1,typical angina,126,282,false,normal,156,yes,0,2,0,3,less chance of heart attact
+240,70,1,non-anginal pain,160,269,false,having ST-T wave abnormality,112,yes,2.9,1,1,3,less chance of heart attact
+241,59,0,typical angina,174,249,false,having ST-T wave abnormality,143,yes,0,1,0,2,less chance of heart attact
+242,64,1,typical angina,145,212,false,normal,132,no,2,1,2,1,less chance of heart attact
+243,57,1,typical angina,152,274,false,having ST-T wave abnormality,88,yes,1.2,1,1,3,less chance of heart attact
+244,56,1,typical angina,132,184,false,normal,105,yes,2.1,1,1,1,less chance of heart attact
+245,48,1,typical angina,124,274,false,normal,166,no,0.5,1,0,3,less chance of heart attact
+246,56,0,typical angina,134,409,false,normal,150,yes,1.9,1,2,3,less chance of heart attact
+247,66,1,atypical angina,160,246,false,having ST-T wave abnormality,120,yes,0,1,3,1,less chance of heart attact
+248,54,1,atypical angina,192,283,false,normal,195,no,0,2,1,3,less chance of heart attact
+249,69,1,non-anginal pain,140,254,false,normal,146,no,2,1,3,3,less chance of heart attact
+250,51,1,typical angina,140,298,false,having ST-T wave abnormality,122,yes,4.2,1,3,3,less chance of heart attact
+251,43,1,typical angina,132,247,true,normal,143,yes,0.1,1,4,3,less chance of heart attact
+252,62,0,typical angina,138,294,true,having ST-T wave abnormality,106,no,1.9,1,3,2,less chance of heart attact
+253,67,1,typical angina,100,299,false,normal,125,yes,0.9,1,2,2,less chance of heart attact
+254,59,1,asymptomatic,160,273,false,normal,125,no,0,2,0,2,less chance of heart attact
+255,45,1,typical angina,142,309,false,normal,147,yes,0,1,3,3,less chance of heart attact
+256,58,1,typical angina,128,259,false,normal,130,yes,3,1,2,3,less chance of heart attact
+257,50,1,typical angina,144,200,false,normal,126,yes,0.9,1,0,3,less chance of heart attact
+258,62,0,typical angina,150,244,false,having ST-T wave abnormality,154,yes,1.4,1,0,2,less chance of heart attact
+259,38,1,asymptomatic,120,231,false,having ST-T wave abnormality,182,yes,3.8,1,0,3,less chance of heart attact
+260,66,0,typical angina,178,228,true,having ST-T wave abnormality,165,yes,1,1,2,3,less chance of heart attact
+261,52,1,typical angina,112,230,false,having ST-T wave abnormality,160,no,0,2,1,2,less chance of heart attact
+262,53,1,typical angina,123,282,false,having ST-T wave abnormality,95,yes,2,1,2,3,less chance of heart attact
+263,63,0,typical angina,108,269,false,having ST-T wave abnormality,169,yes,1.8,1,2,2,less chance of heart attact
+264,54,1,typical angina,110,206,false,normal,108,yes,0,1,1,2,less chance of heart attact
+265,66,1,typical angina,112,212,false,normal,132,yes,0.1,2,1,2,less chance of heart attact
+266,55,0,typical angina,180,327,false,left ventricular hypertrophy by Estes' criteria,117,yes,3.4,1,0,2,less chance of heart attact
+267,49,1,non-anginal pain,118,149,false,normal,126,no,0.8,2,3,2,less chance of heart attact
+268,54,1,typical angina,122,286,false,normal,116,yes,3.2,1,2,2,less chance of heart attact
+269,56,1,typical angina,130,283,true,normal,103,yes,1.6,0,0,3,less chance of heart attact
+270,46,1,typical angina,120,249,false,normal,144,no,0.8,2,0,3,less chance of heart attact
+271,61,1,asymptomatic,134,234,false,having ST-T wave abnormality,145,no,2.6,1,2,2,less chance of heart attact
+272,67,1,typical angina,120,237,false,having ST-T wave abnormality,71,no,1,1,0,2,less chance of heart attact
+273,58,1,typical angina,100,234,false,having ST-T wave abnormality,156,no,0.1,2,1,3,less chance of heart attact
+274,47,1,typical angina,110,275,false,normal,118,yes,1,1,1,2,less chance of heart attact
+275,52,1,typical angina,125,212,false,having ST-T wave abnormality,168,no,1,2,2,3,less chance of heart attact
+276,58,1,typical angina,146,218,false,having ST-T wave abnormality,105,no,2,1,1,3,less chance of heart attact
+277,57,1,atypical angina,124,261,false,having ST-T wave abnormality,141,no,0.3,2,0,3,less chance of heart attact
+278,58,0,atypical angina,136,319,true,normal,152,no,0,2,2,2,less chance of heart attact
+279,61,1,typical angina,138,166,false,normal,125,yes,3.6,1,1,2,less chance of heart attact
+280,42,1,typical angina,136,315,false,having ST-T wave abnormality,125,yes,1.8,1,0,1,less chance of heart attact
+281,52,1,typical angina,128,204,true,having ST-T wave abnormality,156,yes,1,1,0,0,less chance of heart attact
+282,59,1,non-anginal pain,126,218,true,having ST-T wave abnormality,134,no,2.2,1,1,1,less chance of heart attact
+283,40,1,typical angina,152,223,false,having ST-T wave abnormality,181,no,0,2,0,3,less chance of heart attact
+284,61,1,typical angina,140,207,false,normal,138,yes,1.9,2,1,3,less chance of heart attact
+285,46,1,typical angina,140,311,false,having ST-T wave abnormality,120,yes,1.8,1,2,3,less chance of heart attact
+286,59,1,asymptomatic,134,204,false,having ST-T wave abnormality,162,no,0.8,2,2,2,less chance of heart attact
+287,57,1,atypical angina,154,232,false,normal,164,no,0,2,1,2,less chance of heart attact
+288,57,1,typical angina,110,335,false,having ST-T wave abnormality,143,yes,3,1,1,3,less chance of heart attact
+289,55,0,typical angina,128,205,false,left ventricular hypertrophy by Estes' criteria,130,yes,2,1,1,3,less chance of heart attact
+290,61,1,typical angina,148,203,false,having ST-T wave abnormality,161,no,0,2,1,3,less chance of heart attact
+291,58,1,typical angina,114,318,false,left ventricular hypertrophy by Estes' criteria,140,no,4.4,0,3,1,less chance of heart attact
+292,58,0,typical angina,170,225,true,normal,146,yes,2.8,1,2,1,less chance of heart attact
+293,67,1,non-anginal pain,152,212,false,normal,150,no,0.8,1,0,3,less chance of heart attact
+294,44,1,typical angina,120,169,false,having ST-T wave abnormality,144,yes,2.8,0,0,1,less chance of heart attact
+295,63,1,typical angina,140,187,false,normal,144,yes,4,2,2,3,less chance of heart attact
+296,63,0,typical angina,124,197,false,having ST-T wave abnormality,136,yes,0,1,0,2,less chance of heart attact
+297,59,1,typical angina,164,176,true,normal,90,no,1,1,2,1,less chance of heart attact
+298,57,0,typical angina,140,241,false,having ST-T wave abnormality,123,yes,0.2,1,0,3,less chance of heart attact
+299,45,1,asymptomatic,110,264,false,having ST-T wave abnormality,132,no,1.2,1,0,3,less chance of heart attact
+300,68,1,typical angina,144,193,true,having ST-T wave abnormality,141,no,3.4,1,2,3,less chance of heart attact
+301,57,1,typical angina,130,131,false,having ST-T wave abnormality,115,yes,1.2,1,1,3,less chance of heart attact
+302,57,0,atypical angina,130,236,false,normal,174,no,0,1,1,2,less chance of heart attact
